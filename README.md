@@ -17,7 +17,8 @@
 
 git init or git clone
 
-git branch
+git branch --> watch local branches
+git branch -a --> watch remote and local branches
 
 git checkout other-branch
 git checkout -b 
