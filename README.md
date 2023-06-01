@@ -29,6 +29,7 @@
 
 - [x] git checkout other-branch
 - [x] git checkout -b new-branch
+- [x] git checkout id-commit --> access a commit to see the historic code 
 
 
 - [x] git remote -v
@@ -42,6 +43,7 @@
 - [x] git status
 
 - [x] git log --oneline
+- [x] git log --graph
 
 - [x] git diff HEAD file --> compare with last commited changes before git add files
 - [x] git show --' 
