@@ -29,7 +29,7 @@
 
 - [x] git checkout other-branch
 - [x] git checkout -b new-branch
-- [x] git checkout id-commit --> access a commit to see the historic code 
+- [x] git checkout id-commit --> access a commit to see the historic code --> for back to current commit: git checkout <branch-name>
 
 
 - [x] git remote -v
