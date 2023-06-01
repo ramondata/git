@@ -25,14 +25,16 @@
 
 - [x] git branch --> watch local branches
 - [x] git branch -a --> watch remote and local branches
+- [x] git branch -d del-branch or git branch -D del-branch
 
 - [x] git checkout other-branch
-- [x] git checkout -b 
-- [x] git checkout -d or git checkout -D
+- [x] git checkout -b new-branch
+
 
 - [x] git remote -v
 - [x] git remote add xxx yyy
 - [x] git remote remove/rm xxx
+- [x] delete a remote branch ??? 
 
 - [x] git push --set-upstream origin branch
 - [x] git push
