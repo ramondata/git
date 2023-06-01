@@ -15,37 +15,40 @@
 
 ### Good resume and practices about git cli
 
-git init or git clone
+- []: git init 
+- [] git clone
 
-git branch --> watch local branches
-git branch -a --> watch remote and local branches
+- [] git branch --> watch local branches
+- [] git branch -a --> watch remote and local branches
 
-git checkout other-branch
-git checkout -b 
-git checkout -d or git checkout -D
+- [] git checkout other-branch
+- [] git checkout -b 
+- [] git checkout -d or git checkout -D
 
-git remote xxx yyy
+- [] git remote -v
+- [] git remote add xxx yyy
+- [] git remote remove/rm xxx
 
-git push --set-upstream origin branch
-git push
+- [] git push --set-upstream origin branch
+- [] git push
 
-git status
+- [] git status
 
-git log --oneline
+- [] git log --oneline
 
-git diff HEAD file
+- [] git diff HEAD file
 
-git stash list
-git stash 
-git stash apply 0
-git stash drop 0
+- [] git stash list
+- [] git stash 
+- [] git stash apply 0
+- [] git stash drop 0
 
-git add path
-git add .
+- [] git add path
+- [] git add .
 
-git commit or git commit -m "message"
+- [] git commit or git commit -m "message"
 
-git merge branch-copy or open a pull request to approve your merge
+- [] git merge branch-copy or open a pull request to approve your merge
 
 
 
