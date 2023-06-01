@@ -15,6 +15,11 @@
 
 ### Good resume and practices about git cli
 
+- [x] git config --global user.name "my name"
+- [x] git config --global user.email myemail@duckpretty.com
+- [x] git config --local user.name "my name"
+- [x] git config --local user.email myemail@duckpretty.com
+
 - [x] git init 
 - [x] git clone
 
@@ -36,7 +41,9 @@
 
 - [x] git log --oneline
 
-- [x] git diff HEAD file
+- [x] git diff HEAD file --> compare with last commited changes before git add files
+- [x] git show --' 
+- [x] git diff --cached --> used after git add files
 
 - [x] git stash list
 - [x] git stash 
