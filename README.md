@@ -56,6 +56,7 @@
 - [x] git stash drop  or git stash drop 0
 - [x] git stash pop or git stash pop 0(or stash@{0}) --> similiar git stash apply stash@{0} + git stash drop stash@{0} 
 - [x] git stash branch new-branch-name stash@{0}(or just 0) --> keep clean currently branch and create a new branch apply the changes from stash
+- [x] git stash clear --> drop all stashes
 
 - [x] git add file1, file2, ...
 - [x] git add . --> added everything changed
