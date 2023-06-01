@@ -45,10 +45,12 @@
 - [x] git show --' 
 - [x] git diff --cached --> used after git add files
 
-- [x] git stash list
-- [x] git stash 
-- [x] git stash apply 0
-- [x] git stash drop 0
+- [x] git stash push or git stash
+- [x] git stash list --> all changed stashed
+- [x] git stash show --> changes from currently branch
+- [x] git stash apply  or git stash apply 0(or stash@{0})
+- [x] git stash drop  or git stash drop 0
+- [x] git stash pop or git stash pop 0(or stash@{0}) --> similiar git stash apply stash@{0} + git stash drop stash@{0} 
 
 - [x] git add path
 - [x] git add .
