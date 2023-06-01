@@ -62,6 +62,7 @@
 - [x] git add . --> added everything changed
 
 - [x] git commit or git commit -m "message"
+- [x] git commit -a -m "message commit" --> same thing which git add . + git commit -m "message"
 
 - [x] git merge branch-copy or open a pull request to approve your merge
 
