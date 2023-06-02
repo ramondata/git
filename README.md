@@ -26,9 +26,27 @@
 - [x] git clone
 
 ## Branch
-- [x] git branch or git branch --list --> watch just local branches
-- [x] git branch -r (or --remotes) --> watch just remote branches
-- [x] git branch -a (or --all) --> watch remote and local branches
+
+- [x] watch a list with local branches
+```
+git branch or git branch --list
+```
+- [x] watch a list with remote branches
+```
+git branch -r
+```
+or
+```
+git branch --remotes
+```
+- [x] watch a list with remote and local branches
+````
+git branch -a
+````
+or
+````
+git branch --all
+````
 - [x] git branch -d del-branch or git branch -D del-branch
 
 ## Change place
