@@ -29,8 +29,12 @@
 
 - [x] watch a list with local branches
 ```
-git branch or git branch --list
+git branch
 ```
+or
+````
+git branch --list
+````
 - [x] watch a list with remote branches
 ```
 git branch -r
