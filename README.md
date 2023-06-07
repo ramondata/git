@@ -54,7 +54,7 @@ git branch --all
 - [x] git branch -d del-branch or git branch -D del-branch
 
 ## Change place
-- [x] git checkout other-branch
+- [x] git checkout other-branch 
 - [x] git checkout -b new-branch
 - [x] git checkout id-commit --> access a commit to see the historic code --> for back to current commit: git checkout <branch-name>
 
@@ -79,6 +79,7 @@ git branch --all
 - [x] git diff HEAD file --> compare with last commited changes before git add files
 - [x] git show --' 
 - [x] git diff --cached --> used after git add files
+- [x] git diff tag-name..other-tag-name --> amazing way to compare difference between code versions
 
 ## Manager Stashes
 - [x] git stash push or git stash
@@ -102,5 +103,9 @@ git branch --all
 - [x] git merge branch-copy 
 - [x] open a pull request to approve your merge
 
-
-
+## tags
+- [x] git tag or git tag -l(i.e. --list) --> list of tags in repo
+- [x] git tag -n(i.e. --num) --> list tags with message or last commit associated
+- [x] git tag -d(i.e. --delete)name-tag
+- [x] git tag name-tag --> made a new tag for you
+- [x] git tag -a(i.e. --annotate) name-tag -m(i.e. message) "message for your tag here"
