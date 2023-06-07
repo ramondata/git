@@ -79,7 +79,7 @@ git branch --all
 - [x] git diff HEAD file --> compare with last commited changes before git add files
 - [x] git show --' 
 - [x] git diff --cached --> used after git add files
-- [x] git diff tag-name..other-tag-name --> amazing way to compare difference between code versions
+- [x] git diff tag-name..other-tag-name --> amazing way to compare difference between code versions(fyi: the tag contain the flag about last change)
 
 ## Manager Stashes
 - [x] git stash push or git stash
