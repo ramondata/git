@@ -117,7 +117,10 @@ git branch --all
        
 ## Hooks
 - [x] commit-msg: good pattern to organize commits message
-       - [x] mv .git/hooks/commit-msg.sample .git/hooks/commit-msg
-       - [x] make your regex reding .git/COMMIT_EDITMSG --> where your messagem commit was saved
-       - [x] remember apply exit 1 and a error message case pattern commit is wrong
-       - [x] when you push commit, your commit-msg for git hooks will be available for everybody that get your repo branch
+> mv .git/hooks/commit-msg.sample .git/hooks/commit-msg
+       
+> make your regex reding .git/COMMIT_EDITMSG --> where your messagem commit was saved
+       
+> remember apply exit 1 and a error message case pattern commit is wrong
+       
+> when you push commit, your commit-msg for git hooks will be available for everybody that get your repo branch
