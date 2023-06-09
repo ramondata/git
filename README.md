@@ -110,3 +110,7 @@ git branch --all
 - [x] git tag -d(i.e. --delete)name-tag
 - [x] git tag name-tag --> made a new tag for you
 - [x] git tag -a(i.e. --annotate) name-tag -m(i.e. message) "message for your tag here"
+       
+## Reset commits
+- [x] git reset HEAD~ or git reset HEAD^ --> reset last commit
+- [x] git reset HEAD~x --> To back by x commit before HEAD(HEAD is a pointer for actualy branch and commit)
