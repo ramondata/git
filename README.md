@@ -114,3 +114,10 @@ git branch --all
 ## Reset commits
 - [x] git reset HEAD~ or git reset HEAD^ --> reset last commit
 - [x] git reset HEAD~x --> To back by x commit before HEAD(HEAD is a pointer for actualy branch and commit)
+       
+## Hooks
+- [x] commit-msg: good pattern to organize commits message
+       - mv .git/hooks/commit-msg.sample .git/hooks/commit-msg
+       - make your regex reding .git/COMMIT_EDITMSG --> where your messagem commit was saved
+       - remember apply exit 1 and a error message case pattern commit is wrong
+       - when you push commit, your commit-msg for git hooks will be available for everybody that get your repo branch
