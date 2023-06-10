@@ -54,6 +54,10 @@ git branch --all
 ````
 - [x] git branch -d del-branch or git branch -D del-branch
 
+## set up a default remote and branch for pull/push
+- [x] git push --set-upstream remote branch
+- [x] git branch --set-upstream-to=remote/branch 
+
 ## Change place
 - [x] git checkout other-branch 
 - [x] git checkout -b new-branch
