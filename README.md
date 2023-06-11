@@ -119,6 +119,10 @@ git branch --all
 - [x] git reset HEAD~ or git reset HEAD^ --> reset last commit
 - [x] git reset HEAD~x --> To back by x commit before HEAD(HEAD is a pointer for actualy branch and commit)
        
+## Restore
+- [x] git restore --staged --> restore changes adding with git add
+- [x] git restore --source=HEAD --staged <arquivo>
+       
 ## Hooks
 - [x] commit-msg: good pattern to organize commits message
 > mv .git/hooks/commit-msg.sample .git/hooks/commit-msg
