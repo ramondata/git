@@ -52,6 +52,7 @@ or
 ````
 git branch --all
 ````
+- [x] git branch --set-upstream-to=remote-name/<branch> airflow2-dev <TESTAR-AINDA>
 - [x] git branch -d del-branch or git branch -D del-branch
 
 ## set up a default remote and branch for pull/push
@@ -72,7 +73,7 @@ git branch --all
 
 ## Upload to the server
 - [x] git push --set-upstream origin branch
-- [x] git push
+- [x] git push remote-name branch-name
 
 ## Follow changed files
 - [x] git status
