@@ -74,6 +74,7 @@ git branch --all
 ## Upload to the server
 - [x] git push --set-upstream origin branch
 - [x] git push remote-name branch-name
+- [x] git push origin -d branch-name  --> to delete a remote branch
 
 ## Follow changed files
 - [x] git status
