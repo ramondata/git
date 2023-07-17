@@ -68,8 +68,7 @@ git branch --all
 - [x] git remote -v
 - [x] git remote add xxx yyy
 - [x] git remote remove/rm xxx
-- [x] git remote show origin 
-- [x] delete a remote branch ??? 
+- [x] git remote show origin
 
 ## Upload to the server
 - [x] git push --set-upstream origin branch
