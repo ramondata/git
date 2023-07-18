@@ -87,6 +87,7 @@ git branch --all
 - [x] git show --' 
 - [x] git diff --cached --> used after git add files
 - [x] git diff tag-name..other-tag-name --> amazing way to compare difference between code versions(fyi: the tag contain the flag about last change)
+- [x] git diff hash_commit..other_hash_commit --> another way to compare different code version (fyi: using abbreviation for hash commit you can get that in git log information)
 
 ## Manager Stashes
 - [x] git stash push or git stash
