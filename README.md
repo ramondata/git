@@ -11,7 +11,7 @@
 ```
 
 tl,dr:
-# *DRAFT YET*
+# Porcelain commands
 
 
 ### Good resume and practices about git cli
